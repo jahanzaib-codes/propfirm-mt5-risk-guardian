@@ -1,4 +1,4 @@
-# 🛡️ Prop Firm Automated Risk Guardian & Equity Drawdown Protector (MT5 / MQL5)
+﻿# 🛡️ Prop Firm Automated Risk Guardian & Equity Drawdown Protector (MT5 / MQL5)
 
 [![MQL5](https://img.shields.io/badge/Language-MQL5-0078D7?style=flat-square)](https://www.mql5.com)
 [![MetaTrader 5](https://img.shields.io/badge/Platform-MetaTrader_5-2563EB?style=flat-square)](https://www.metatrader5.com)
@@ -12,7 +12,7 @@
 ### 💼 Need Custom Expert Advisors, Prop Firm Passers, or Algorithmic MQL5 Tools?
 I engineer custom quantitative trading algorithms, MT4/MT5 Expert Advisors, and proprietary execution bridges for private funds and retail prop traders.
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
-* 💼 **Fiverr Profile:** [jahanzaib313110 (Fiverr Specialist)](https://www.fiverr.com/jahanzaib313110)
+* 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://tinyurl.com/2wruxnsx)
 * 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
@@ -135,4 +135,5 @@ flowchart TD
 
 ---
 *Maintained by **Jahanzaib** ([@jahanzaib-codes](https://github.com/jahanzaib-codes))*
+
 
