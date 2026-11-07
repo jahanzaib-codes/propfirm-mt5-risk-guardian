@@ -19,11 +19,36 @@ I engineer custom quantitative trading algorithms, MT4/MT5 Expert Advisors, and 
 
 ## 📑 Table of Contents
 1. [Why Most Traders Fail Prop Firm Challenges](#-why-most-traders-fail-prop-firm-challenges)
-2. [Core Protection Features](#-core-protection-features)
-3. [Drawdown Protection Flow](#-drawdown-protection-flow)
-4. [Input Parameters & Configuration](#-input-parameters--configuration)
-5. [Installation & Terminal Setup](#-installation--terminal-setup)
-6. [Disclaimer](#-disclaimer)
+2. [Dual GUI Interface (On-Chart HUD & Desktop App)](#-dual-gui-interface-on-chart-hud--desktop-app)
+3. [Core Protection Features](#-core-protection-features)
+4. [Drawdown Protection Flow](#-drawdown-protection-flow)
+5. [Input Parameters & Configuration](#-input-parameters--configuration)
+6. [Installation & Terminal Setup](#-installation--terminal-setup)
+7. [Disclaimer](#-disclaimer)
+
+---
+
+## 🖥️ Dual GUI Interface (On-Chart HUD & Desktop App)
+
+The suite provides two real-time monitoring interfaces to keep your funded account safe:
+
+### 1. Native MT5 On-Chart HUD Dashboard
+Directly embedded inside `RiskGuardian.mq5`. Renders an interactive glassmorphic HUD panel in the upper corner of your MT5 chart:
+```text
+┌──────────────────────────────────────────────┐
+│  🛡️ RISK GUARDIAN PRO                       │
+├──────────────────────────────────────────────┤
+│  Live Equity:      $101,420.50               │
+│  Daily P&L:        +$1,420.50 (+1.42%)       │
+│  Loss Buffer:      $5,420.50 Remaining      │
+│  Status:           🟢 SAFE THRESHOLD         │
+│                                              │
+│  [ 🚨 CLOSE ALL TRADES (1-Click Panic) ]    │
+└──────────────────────────────────────────────┘
+```
+
+### 2. Standalone Desktop GUI Monitor (`monitor_gui.py`)
+A Python Tkinter desktop application that displays live account equity progress bars, drawdown gauges, and emergency kill switches without cluttering your chart window. Run via `python monitor_gui.py`.
 
 ---
 
@@ -110,3 +135,4 @@ flowchart TD
 
 ---
 *Maintained by **Jahanzaib** ([@jahanzaib-codes](https://github.com/jahanzaib-codes))*
+
