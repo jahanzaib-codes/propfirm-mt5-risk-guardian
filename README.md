@@ -12,8 +12,7 @@
 ### 💼 Need Custom Expert Advisors, Prop Firm Passers, or Algorithmic MQL5 Tools?
 I engineer custom quantitative trading algorithms, MT4/MT5 Expert Advisors, and proprietary execution bridges for private funds and retail prop traders.
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
-* 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://tinyurl.com/2wruxnsx)
-* 📧 **Email:** `jahanzaibchanna70@gmail.com`
+* 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://www.fiverr.com/jahanzaib313110)
 
 ---
 
